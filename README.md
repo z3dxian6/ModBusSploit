@@ -24,6 +24,7 @@ EXPLOIT - DOS
 AUXILIARY - SCANNER
 * scanner.py : effectue un triple test pour vérifier si le Modbus fonctionne sur la cible.
 * id_fuzzer.py : effectue une attaque par fuzzing pour découvrir l'ID de l'esclave.
+
 AUXILIARY - SNIFF
 * arp_poisoning.py : mettre en place une attaque de type Man-In-The-Middle entre l'esclave et le maître. Wireshark est nécessaire pour renifler les paquets.
 
